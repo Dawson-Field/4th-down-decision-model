@@ -6,16 +6,15 @@ This project uses a machine learning model trained on historical NFL play-by-pla
 
 To support **data-driven decision-making** in football by modeling optimal 4th down decisions based on historical outcomes and real-game scenarios.
 
----
 
 ## Try the App
 
 **Use the interactive tool here:**  
-[https://dawsonfield-4th-down-decision-model.hf.space](https://dawsonfield-4th-down-decision-model.hf.space)
+[4th Down Decision Assistant](https://dawsonfield-4th-down-decision-model.hf.space)
 
 You can input any 4th down scenario and the model will recommend the best action.
 
----
+
 
 ## What the Model Considers
 
@@ -26,7 +25,6 @@ You can input any 4th down scenario and the model will recommend the best action
 - Time remaining in the quarter
 - Timeouts remaining for both teams
 
----
 
 ## How It Works
 
