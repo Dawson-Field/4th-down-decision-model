@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 from pycaret.classification import load_model, predict_model
 
-# Load the trained PyCaret model (must be in same directory)
+# Load the trained PyCaret model
 model = load_model('4th_down_model')
 
 st.set_page_config(page_title="4th Down Decision Assistant", layout="centered")
