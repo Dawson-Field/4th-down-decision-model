@@ -1,6 +1,11 @@
 streamlit
-pycaret
+pycaret==3.0.4
 pandas
 scikit-learn
 numpy
-
+pyod
+numba
+lightgbm
+xgboost
+matplotlib
+seaborn
