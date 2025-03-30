@@ -48,10 +48,10 @@ You can input any 4th down scenario and the model will recommend the best action
 
 ## Built With
 
-- [PyCaret](https://pycaret.org/) for low-code model training
+- [PyCaret](https://pycaret.org/) for model training
 - [nfl_data_py](https://github.com/nflverse/nfl_data_py) for play-by-play NFL data
 - [Streamlit](https://streamlit.io/) for deployment
-- [Hugging Face Spaces](https://huggingface.co/spaces) for free hosting
+- [Hugging Face Spaces](https://huggingface.co/spaces) for hosting
 
 ## Author
 
