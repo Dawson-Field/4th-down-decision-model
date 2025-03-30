@@ -10,7 +10,7 @@ To support **data-driven decision-making** in football by modeling optimal 4th d
 ## Try the App
 
 **Use the interactive tool here:**  
-[4th Down Decision Assistant](https://dawsonfield-4th-down-decision-model.hf.space)
+👉 [4th Down Decision Assistant](https://dawsonfield-4th-down-decision-model.hf.space)
 
 You can input any 4th down scenario and the model will recommend the best action.
 
