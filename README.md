@@ -41,9 +41,10 @@ You can input any 4th down scenario and the model will recommend the best action
 
 ## Files Included
 
-- `streamlit_app.py`: Streamlit app for real-time predictions
+- `app.py`: Streamlit app for real-time predictions
 - `fourthdownmodel.ipynb`: Notebook with full data prep, model training, and visualizations
 - `requirements.txt`: Project dependencies
+- `4th_down_model.pkl`: Trained PyCaret classification model used by the app 
 
 ## Built With
 
