@@ -1,8 +1,8 @@
 # 4th Down Decision Assistant
 
-This project uses a machine learning model trained on historical NFL play-by-play data to help offensive teams decide whether to go for it, punt, or kick a field goal on 4th down.
+This project uses a machine learning model trained on historical NFL play-by-play data to help NFL teams decide whether to go for it, punt, or kick a field goal on 4th down.
 
-## 🧠 How It Works
+## How It Works
 
 - Built using `nfl_data_py`, `pandas`, and `PyCaret`
 - Trained on past seasons and tested on 2024 data
@@ -14,23 +14,24 @@ This project uses a machine learning model trained on historical NFL play-by-pla
   - Quarter
   - Timeouts
 
-## 🔗 Live App
+## Live App
 
 Try it here: [4th Down Decision Assistant](https://dawsonfield-4th-down-decision-model.hf.space)
 
-## 📓 Interactive Notebook
+## Files Included
 
-Explore the full modeling process, data cleaning, and visualizations in Google Colab:  
-[Colab Notebook](https://colab.research.google.com/drive/YOUR_SHAREABLE_COLAB_LINK)
+- `streamlit_app.py`: Streamlit app for real-time predictions
+- `fourthdownmodel.ipynb`: Notebook with full data prep, model training, and visualizations
+- `requirements.txt`: Project dependencies
 
-## 💡 Built With
+## Built With
 
-- [PyCaret](https://pycaret.org/) for training and comparing classification models
+- [PyCaret](https://pycaret.org/) for low-code model training
 - [nfl_data_py](https://github.com/nflverse/nfl_data_py) for play-by-play NFL data
 - [Streamlit](https://streamlit.io/) for deployment
-- [Hugging Face Spaces](https://huggingface.co/spaces) for hosting
+- [Hugging Face Spaces](https://huggingface.co/spaces) for free hosting
 
-## 👨‍💻 Author
+## Author
 
 Built by **Dawson Field**  
 [LinkedIn](https://www.linkedin.com/in/dawson-field)
