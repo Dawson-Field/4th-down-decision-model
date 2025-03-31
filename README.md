@@ -81,5 +81,5 @@ Built by **Dawson Field**
 
 ## Summary
 
-This project combines football strategy with predictive modeling to guide 4th down decision-making. By analyzing past outcomes and context-rich features, it offers coaches, analysts, and fans a practical tool for exploring data-driven play-calling.
+This project combines football strategy with predictive modeling to guide 4th down decision-making. By analyzing past outcomes and in-game situations, it offers coaches, analysts, and fans a practical tool for exploring data-driven play-calling.
 
