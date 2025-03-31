@@ -1,4 +1,4 @@
-# 🏈 4th Down Decision Assistant
+# 4th Down Decision Assistant
 
 This project uses a machine learning model trained on historical NFL play-by-play data to help teams decide whether to **go for it**, **punt**, or **kick a field goal** on 4th down.
 
@@ -6,27 +6,27 @@ Built as a football strategy tool, it brings advanced analytics into one of the 
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To support **data-driven decision-making** in football by modeling optimal 4th down choices based on historical outcomes and in-game variables.
 
 ---
 
-## 🚀 Try the App
+## Try the App
 
-👉 [**Launch the 4th Down Decision Assistant**](https://dawsonfield-4th-down-decision-model.hf.space)  
+[**Launch the 4th Down Decision Assistant**](https://dawsonfield-4th-down-decision-model.hf.space)  
 
-> Input any 4th down scenario and receive a model-generated recommendation in real time.
+> Input any 4th down scenario and receive a model-generated recommendation in real-time.
 
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 The model was trained using:
 - `nfl_data_py` play-by-play data (multiple NFL seasons)
 - `PyCaret` for model training and evaluation
 
-### 🔍 Features Considered:
+### Features Considered:
 - Field position (yards from opponent's end zone)
 - Yards to go for a first down
 - Score differential
@@ -34,7 +34,7 @@ The model was trained using:
 - Time remaining in the quarter
 - Timeouts remaining (offense & defense)
 
-### ✅ Outcome:
+### Outcome:
 The model classifies each scenario into one of three decisions:
 - Go for it
 - Punt
@@ -42,7 +42,7 @@ The model classifies each scenario into one of three decisions:
 
 ---
 
-## 🧪 Development & Testing
+## Development & Testing
 
 - Built-in Python with full preprocessing, feature engineering, and model training in `fourthdownmodel.ipynb`
 - Tested on unseen 2024 play-by-play data to validate predictive performance
@@ -52,7 +52,7 @@ The model classifies each scenario into one of three decisions:
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 | File | Description |
 |------|-------------|
@@ -63,7 +63,7 @@ The model classifies each scenario into one of three decisions:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [PyCaret](https://pycaret.org/) – Automated machine learning
 - [nfl_data_py](https://github.com/nflverse/nfl_data_py) – NFL play-by-play data
@@ -72,14 +72,14 @@ The model classifies each scenario into one of three decisions:
 
 ---
 
-## 📬 Author
+## Author
 
 Built by **Dawson Field**  
-🔗 [LinkedIn](https://www.linkedin.com/in/dawson-field)  
+[LinkedIn](https://www.linkedin.com/in/dawson-field)  
 
 ---
 
-## 📝 Summary
+## Summary
 
 This project combines football strategy with predictive modeling to guide 4th down decision-making. By analyzing past outcomes and context-rich features, it offers coaches, analysts, and fans a practical tool for exploring data-driven play-calling.
 
